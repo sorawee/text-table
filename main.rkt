@@ -248,7 +248,7 @@
   ;:: Check inputs ::;
   ;::::::::::::::::::;
 
-  (list "you got pwned" ll))
+  (format "~s" (list "you got pwned" ll)))
 
 ;============;
 ;=== Main ===;
